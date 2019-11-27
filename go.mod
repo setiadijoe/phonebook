@@ -21,16 +21,17 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/iancoleman/strcase v0.0.0-20190422225806-e506e3ef7365
 	github.com/jmoiron/sqlx v1.2.0
+	github.com/leodido/go-urn v1.1.0 // indirect
 	github.com/lib/pq v1.2.0
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/oklog/oklog v0.3.2
 	github.com/oklog/run v1.0.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
-	github.com/payfazz/go-validator v1.0.1
 	github.com/stretchr/testify v1.4.0 // indirect
 	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582 // indirect
 	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
 	google.golang.org/appengine v1.6.1 // indirect
+	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v9 v9.29.1
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 )

@@ -8,10 +8,10 @@ import (
 
 	"phonebook/pkg/httperror"
 	"phonebook/pkg/logger"
+	"phonebook/pkg/validator"
 
 	"github.com/go-kit/kit/endpoint"
 	"github.com/go-kit/kit/log"
-	"github.com/payfazz/fazzkit/server/validator"
 )
 
 var loggers = make(map[string]*logger.Logger)
